@@ -1,0 +1,4 @@
+3 2 100 200 -10 11 20 30
+2 2 10 20 30 -1
+2 3 this is the start of it
+2 3 who knows the future of humanity
